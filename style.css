@@ -1,12 +1,12 @@
 .navbar{
         list-style: none;
-        background-color: black;
+        background-color: mistyrose;
         overflow: hidden;
         padding: 0;
     }
     .navbar a, .dropdown div{
         text-decoration: none;
-        color: white ;
+        color: #6B6363 ;
         font-size: 24px;
         padding: 16px;
         display: inline-block;
@@ -15,7 +15,7 @@
        float: left;
    }
    .navbar li:hover{
-       background-color: blue;
+       background-color: lightsalmon;
    }
    .dropdown-content{
        list-style: none;
@@ -23,7 +23,7 @@
        display: none;
        position: absolute;
        z-index: 1;
-       background-color: black
+       background-color: darkgoldenrod
    }
    .dropdown-content li{
        float: none;
@@ -34,9 +34,8 @@
    .active{
        background-color: red;
    }
-   
-   
-   
-   
-   
-  
+
+
+
+
+
